@@ -101,13 +101,13 @@ More coursework lives in [**ULB-Projects**](https://github.com/ULB-Projects).
 ### GitHub stats
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/kmor8/kmor8/output/stats.svg" alt="GitHub stats: contributions, streaks and the last 30 days of activity" />
+  <img width="100%" src="https://raw.githubusercontent.com/kmor8/kmor8/output/stats.svg?v=2" alt="GitHub stats: contributions, streaks and the last 30 days of activity" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmor8/kmor8/output/github-snake-dark.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/kmor8/kmor8/output/github-snake.svg" alt="Snake eating my contributions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmor8/kmor8/output/github-snake-dark.svg?v=2" />
+    <img width="100%" src="https://raw.githubusercontent.com/kmor8/kmor8/output/github-snake.svg?v=2" alt="Snake eating my contributions" />
   </picture>
 </p>
 
