@@ -33,7 +33,7 @@ query($login: String!) {
 """
 
 # Palette shared with assets/terminal.svg
-LIME, PINK, TXT, FRAME, DIM, PERI = "#cde77f", "#f4a7c4", "#e6e6e6", "#7f8b99", "#9aa4ae", "#7d93c4"
+LIME, PINK, TXT, FRAME, DIM, PERI = "#8ea3d4", "#f4a7c4", "#e6e6e6", "#7f8b99", "#9aa4ae", "#7d93c4"
 FONT = "Cascadia Mono, Cascadia Code, Consolas, 'Fira Code', 'DejaVu Sans Mono', monospace"
 
 
@@ -97,7 +97,7 @@ def render(u):
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="GitHub stats">',
          f'<style>text{{font-family:{FONT};}} .l{{fill:{LIME};font-weight:700;font-size:15px}} .t{{fill:{TXT};font-size:15px}} '
          f'.h{{fill:{LIME};font-size:15px}} .d{{fill:{DIM};font-size:12px}}</style>',
-         f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="10" fill="#1b2026" stroke="#a9c48a" stroke-opacity=".55"/>',
+         f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="10" fill="#1b2026" stroke="#5d73a2" stroke-opacity=".8"/>',
          f'<rect x="1" y="1" width="{W-2}" height="38" rx="10" fill="#14181d"/><rect x="1" y="28" width="{W-2}" height="11" fill="#14181d"/>',
          f'<text x="22" y="25" class="d" style="font-size:14px">&gt;_</text><text x="50" y="25" class="t" style="font-size:14px">kami@github: ~/stats</text>',
          f'<text x="{W-110}" y="25" class="d" style="font-size:15px">—    ☐    ✕</text>']
