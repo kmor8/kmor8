@@ -98,27 +98,15 @@ More coursework lives in [**ULB-Projects**](https://github.com/ULB-Projects).
 
 ---
 
-### Certificates & learning
+### Certificates
 
-<details open>
-<summary><b>🎓 Certificates</b> · 1</summary>
-<br/>
+<p align="center">
+  <a href="assets/certificates/">
+    <img width="100%" src="https://raw.githubusercontent.com/kmor8/kmor8/output/certificates.svg?v=1" alt="Slideshow of my certificates" />
+  </a>
+</p>
 
-<a href="assets/certificates/google-data-analytics.pdf">
-  <img src="assets/certificates/google-data-analytics.png" width="460" alt="Google Data Analytics Professional Certificate (Coursera, March 2025)" title="Google Data Analytics Professional Certificate" />
-</a>
-
-<sub>**Google Data Analytics Professional Certificate** · Coursera · Mar 2025 · [open the PDF](assets/certificates/google-data-analytics.pdf) · [verify on Coursera](https://coursera.org/verify/professional-cert/EN1L673NXZ04)</sub>
-
-</details>
-
-<details>
-<summary><b>📚 DataCamp</b> · learning in progress</summary>
-<br/>
-
-I'm working through DataCamp courses little by little. Follow my progress on my [DataCamp profile](https://www.datacamp.com/portfolio/TU-USUARIO-DATACAMP).
-
-</details>
+<sub>🎓 **Google Data Analytics Professional Certificate** · Google · Coursera · Mar 2025 · [PDF](assets/certificates/google-data-analytics.pdf) · [verify](https://coursera.org/verify/professional-cert/EN1L673NXZ04)</sub>
 
 ---
 
