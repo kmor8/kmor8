@@ -47,7 +47,7 @@ Hi! I'm **Kami**, a systems engineer turned data scientist, based in Brussels. I
   <img src="https://skillicons.dev/icons?i=pytorch" width="56" height="56" alt="PyTorch" title="PyTorch" />
   <img src="https://skillicons.dev/icons?i=sklearn" width="56" height="56" alt="scikit-learn" title="scikit-learn" />
   <img src="https://skillicons.dev/icons?i=tensorflow" width="56" height="56" alt="TensorFlow" title="TensorFlow" />
-  <img src="assets/icons/flower.svg" width="56" height="56" alt="Flower · federated learning" title="Flower · federated learning" />
+  <img src="assets/icons/flower.png" width="56" height="56" alt="Flower · federated learning" title="Flower · federated learning" />
 </p>
 
 <p>
@@ -69,12 +69,12 @@ Hi! I'm **Kami**, a systems engineer turned data scientist, based in Brussels. I
   <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" width="56" height="56" alt="GitHub" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" alt="VS Code" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=latex" width="56" height="56" alt="LaTeX" title="LaTeX" />
 </p>
 
 <p>
   <img src="assets/icons/obsidian.svg" width="56" height="56" alt="Obsidian" title="Obsidian" />
   <img src="assets/icons/notion.svg" width="56" height="56" alt="Notion" title="Notion" />
+  <img src="https://skillicons.dev/icons?i=latex" width="56" height="56" alt="LaTeX" title="LaTeX" />
 </p>
 
 <br clear="left" />
@@ -95,6 +95,30 @@ Hi! I'm **Kami**, a systems engineer turned data scientist, based in Brussels. I
 </table>
 
 More coursework lives in [**ULB-Projects**](https://github.com/ULB-Projects).
+
+---
+
+### Certificates & learning
+
+<details open>
+<summary><b>🎓 Certificates</b> · 1</summary>
+<br/>
+
+<a href="assets/certificates/google-data-analytics.pdf">
+  <img src="assets/certificates/google-data-analytics.png" width="460" alt="Google Data Analytics Professional Certificate (Coursera, March 2025)" title="Google Data Analytics Professional Certificate" />
+</a>
+
+<sub>**Google Data Analytics Professional Certificate** · Coursera · Mar 2025 · [open the PDF](assets/certificates/google-data-analytics.pdf) · [verify on Coursera](https://coursera.org/verify/professional-cert/EN1L673NXZ04)</sub>
+
+</details>
+
+<details>
+<summary><b>📚 DataCamp</b> · learning in progress</summary>
+<br/>
+
+I'm working through DataCamp courses little by little. Follow my progress on my [DataCamp profile](https://www.datacamp.com/portfolio/TU-USUARIO-DATACAMP).
+
+</details>
 
 ---
 
