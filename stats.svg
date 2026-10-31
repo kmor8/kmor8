@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="350" viewBox="0 0 960 350" role="img" aria-label="GitHub stats">
+<style>text{font-family:Cascadia Mono, Cascadia Code, Consolas, 'Fira Code', 'DejaVu Sans Mono', monospace;} .l{fill:#8ea3d4;font-weight:700;font-size:15px} .t{fill:#e6e6e6;font-size:15px} .h{fill:#8ea3d4;font-size:15px} .d{fill:#9aa4ae;font-size:12px}</style>
+<rect x="0.5" y="0.5" width="959" height="349" rx="10" fill="#1b2026" stroke="#5d73a2" stroke-opacity=".8"/>
+<rect x="1" y="1" width="958" height="38" rx="10" fill="#14181d"/><rect x="1" y="28" width="958" height="11" fill="#14181d"/>
+<text x="22" y="25" class="d" style="font-size:14px">&gt;_</text><text x="50" y="25" class="t" style="font-size:14px">kami@github: ~/stats</text>
+<text x="850" y="25" class="d" style="font-size:15px">—    ☐    ✕</text>
+<path d="M28,194 V64 H118.5" fill="none" stroke="#7f8b99"/>
+<path d="M359.5,64 H454 V194 H28" fill="none" stroke="#7f8b99" stroke-opacity=".7"/>
+<text x="239.0" y="69" text-anchor="middle" class="h">Activity · last 12 months</text>
+<path d="M28,85 H38" stroke="#7f8b99"/>
+<text x="44" y="90" class="l">CONTRIBUTIONS</text>
+<text x="440" y="90" text-anchor="end" class="t">729</text>
+<path d="M28,107 H38" stroke="#7f8b99"/>
+<text x="44" y="112" class="l">COMMITS</text>
+<text x="440" y="112" text-anchor="end" class="t">269</text>
+<path d="M28,129 H38" stroke="#7f8b99"/>
+<text x="44" y="134" class="l">PRIVATE</text>
+<text x="440" y="134" text-anchor="end" class="t">458</text>
+<path d="M28,151 H38" stroke="#7f8b99"/>
+<text x="44" y="156" class="l">PULL REQUESTS</text>
+<text x="440" y="156" text-anchor="end" class="t">0</text>
+<path d="M28,173 H38" stroke="#7f8b99"/>
+<text x="44" y="178" class="l">ISSUES</text>
+<text x="440" y="178" text-anchor="end" class="t">0</text>
+<path d="M494,194 V64 H637.5" fill="none" stroke="#7f8b99"/>
+<path d="M788.5,64 H936 V194 H494" fill="none" stroke="#7f8b99" stroke-opacity=".7"/>
+<text x="713.0" y="69" text-anchor="middle" class="h">Streaks &amp; repos</text>
+<path d="M494,85 H504" stroke="#7f8b99"/>
+<text x="510" y="90" class="l">CURRENT</text>
+<text x="922" y="90" text-anchor="end" class="t">0 days</text>
+<path d="M494,107 H504" stroke="#7f8b99"/>
+<text x="510" y="112" class="l">LONGEST</text>
+<text x="922" y="112" text-anchor="end" class="t">9 days</text>
+<path d="M494,129 H504" stroke="#7f8b99"/>
+<text x="510" y="134" class="l">BEST DAY</text>
+<text x="922" y="134" text-anchor="end" class="t">60 on 21 Mar 2026</text>
+<path d="M494,151 H504" stroke="#7f8b99"/>
+<text x="510" y="156" class="l">PUBLIC REPOS</text>
+<text x="922" y="156" text-anchor="end" class="t">1</text>
+<path d="M494,173 H504" stroke="#7f8b99"/>
+<text x="510" y="178" class="l">CONTRIBUTED TO</text>
+<text x="922" y="178" text-anchor="end" class="t">5</text>
+<text x="28" y="230" class="h">last 30 days</text>
+<line x1="28" y1="308" x2="932" y2="308" stroke="#7f8b99" stroke-opacity=".6"/>
+<rect x="31.0" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="61.13333333333333" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="91.26666666666667" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="121.4" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="151.53333333333333" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="181.66666666666666" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="211.8" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="241.93333333333334" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="272.06666666666666" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="302.2" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="332.3333333333333" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="362.46666666666664" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="392.6" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="422.73333333333335" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="452.8666666666667" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="483.0" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="513.1333333333333" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="543.2666666666667" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="573.4" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="603.5333333333333" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="633.6666666666666" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="663.8" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="693.9333333333333" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="724.0666666666666" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="754.2" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="784.3333333333334" y="238.0" width="24.133333333333333" height="70.0" rx="2" fill="#8ea3d4" fill-opacity="1.00"><title>2026-10-27: 18 contributions</title></rect>
+<rect x="814.4666666666667" y="296.3333333333333" width="24.133333333333333" height="11.666666666666666" rx="2" fill="#8ea3d4" fill-opacity="0.54"><title>2026-10-28: 3 contributions</title></rect>
+<rect x="844.6" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="874.7333333333333" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<rect x="904.8666666666667" y="305" width="24.133333333333333" height="2" fill="#9aa4ae" fill-opacity=".5"/>
+<text x="28" y="326" class="d">02 Oct</text>
+<text x="932" y="326" text-anchor="end" class="d">31 Oct</text>
+<text x="480.0" y="326" text-anchor="middle" class="d">updated 2026-10-31</text>
+</svg>
